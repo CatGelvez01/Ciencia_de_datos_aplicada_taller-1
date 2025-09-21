@@ -1,4 +1,4 @@
-Entrega taller N°1 - Analitica de Datos
+ENTREGA TALLER N°1 - ANALITICA DE DATOS
 Ana C. Gelvez 
 
 READ ME - REPO

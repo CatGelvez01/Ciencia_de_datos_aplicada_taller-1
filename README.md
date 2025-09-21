@@ -83,3 +83,23 @@ Estas relaciones se analizan con el propósito de identificar conexiones entre l
 - Scatterplot con Pearson → correlaciones lineales.
 - Barplots → tendencias de cancelación y noches de estancia.
 
+**Estrategias e insights**
+El cliente ofrece un servicio amplio en el diseño de experiencias dentro de la industria hotelera, lo que implica la presencia de múltiples factores que influyen en el comportamiento de los huéspedes al momento de realizar una reserva. Asimismo, resulta clave comprender el valor agregado que el servicio brinda como un todo a los potenciales clientes.
+A partir de los datos proporcionados, fue posible realizar varias aproximaciones con los atributos más significativos. Entre ellos destaca el número de adultos, que constituyen el segmento más representativo del dataset en comparación con niños y bebés. De igual forma, se analizó el tipo de hotel, considerando dos categorías principales que ayudan a entender las experiencias que los huéspedes buscan. Tal como se mencionó en una de las hipótesis anteriores, la propuesta de valor de un Resort, en términos de servicio y experiencia, difiere de la de un City Hotel, lo que puede reflejar las intenciones de los huéspedes tanto al reservar como al cancelar.
+A continuación, se presentan estrategias orientadas a reforzar las reservas y reducir las cancelaciones de acuerdo con el tipo de hotel.
+
+***Segmentar estrategias por tipo de hotel:***
+Hoteles City: políticas enfocadas en reducción de cancelaciones.
+Resorts: reforzar campañas vacacionales de fin de semana.
+
+Un factor clave del análisis fue el tipo de día de la semana, con el objetivo de relacionarlo con el comportamiento del huésped. Este enfoque permite profundizar en el planteamiento sobre el tipo de experiencia que el cliente busca al momento de reservar o cancelar, y al mismo tiempo refuerza la percepción del hotel como un espacio de descanso.
+Por otro lado, los resultados de las hipótesis muestran que los grupos grandes de huéspedes tienden a cancelar menos las reservas, y que las estancias prolongadas durante los días laborales de la semana también presentan una menor probabilidad de cancelación.
+
+***Optimizar políticas según número de adultos y noches:***
+Ajustar condiciones de reserva en grupos numerosos.
+Incluir incentivos para reducir cancelaciones en estancias de fin de semana prolongadas.
+
+***Campañas diferenciadas:***
+Promociones de escapadas en Resorts.
+Ofertas flexibles en City Hotels para estadías cortas.
+

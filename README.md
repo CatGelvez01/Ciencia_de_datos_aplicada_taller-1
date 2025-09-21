@@ -1,3 +1,45 @@
+
+📂 Contenido del proyecto
+
+Dataset: Archivo CSV proporcionado por el cliente con ~50.000 registros y 32 columnas.
+Data Dictionary: Documento complementario para entender el significado de cada variable.
+Notebooks de análisis: Código en Python para exploración, limpieza, pruebas estadísticas y visualizaciones.
+Reporte ejecutivo: Conclusiones clave, visualizaciones y recomendaciones estratégicas.
+
+
+🛠️ Tecnologías utilizadas
+
+Python 3.11
+Pandas → manejo y análisis de datos
+NumPy → cálculos numéricos
+SciPy → pruebas estadísticas (t-test, Chi-cuadrado, Pearson, Mann-Whitney)
+Matplotlib & Seaborn → visualización de datos
+
+📌 Cómo usar este proyecto
+
+Clonar este repositorio:
+
+git clone https://github.com/usuario/hotel-booking-analysis.git
+cd hotel-booking-analysis
+
+
+Crear un entorno virtual e instalar dependencias:
+
+conda create -n hotel_env python=3.11
+conda activate hotel_env
+pip install -r requirements.txt
+
+
+Ejecutar los notebooks de análisis:
+
+jupyter notebook
+
+📊 READ ME
+Revisar el Reporte Ejecutivo para acceder a conclusiones y recomendaciones estratégicas.
+
+
+-------------------------------------------------------------------------
+
 ENTREGA TALLER N°1 - ANALITICA DE DATOS
 
 Ana C. Gelvez 

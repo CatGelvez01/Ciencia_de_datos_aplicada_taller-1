@@ -5,13 +5,16 @@ Ana C. Gelvez
 READ ME - REPO
 
 **Dimensiones técnicas del Dataset**
+
 La industria hotelera es un sector consolidado en la mayoría de los contextos, sin embargo, siempre existe espacio para la mejora y la innovación.
 En este estudio se aborda el contexto hotelero a partir de los datos proporcionados por el cliente “Hotel”, con el objetivo de identificar estrategias que impacten aspectos clave como las cancelaciones, la ocupación y los factores que pueden influir en la estadía de los huéspedes.
 
 **Descripción del Dataset**
+
 El cliente “Hotel” facilitó un dataset en formato CSV compuesto por 32 columnas (atributos) y más de 50.000 registros, acompañado de un Data Dictionary que facilita la comprensión de los términos y tipos de datos.
 
 **Evaluación inicial de la calidad del Dataset**
+
 Para validar la pertinencia del dataset frente a los objetivos del caso de estudio, se evaluaron las siguientes dimensiones:
 
 - Completitud: amplia cantidad de registros, suficiente para análisis robustos.
@@ -25,6 +28,7 @@ Para validar la pertinencia del dataset frente a los objetivos del caso de estud
 - Credibilidad: los datos provienen directamente del cliente.
 
 **Tipología de datos**
+
 El dataset contiene variables de distintos tipos:
 - Booleanas
 - Numéricas (enteros y continuas)

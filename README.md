@@ -2,17 +2,24 @@
 📂 Contenido del proyecto
 
 Dataset: Archivo CSV proporcionado por el cliente con ~50.000 registros y 32 columnas.
+
 Data Dictionary: Documento complementario para entender el significado de cada variable.
+
 Notebooks de análisis: Código en Python para exploración, limpieza, pruebas estadísticas y visualizaciones.
+
 Reporte ejecutivo: Conclusiones clave, visualizaciones y recomendaciones estratégicas.
 
 
 🛠️ Tecnologías utilizadas
 
 Python 3.11
+
 Pandas → manejo y análisis de datos
+
 NumPy → cálculos numéricos
+
 SciPy → pruebas estadísticas (t-test, Chi-cuadrado, Pearson, Mann-Whitney)
+
 Matplotlib & Seaborn → visualización de datos
 
 📌 Cómo usar este proyecto
